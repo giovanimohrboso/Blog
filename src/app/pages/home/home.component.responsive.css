@@ -1,0 +1,7 @@
+@media screen and (max-width: 720px){
+  .container__articles{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}

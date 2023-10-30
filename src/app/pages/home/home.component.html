@@ -1,0 +1,12 @@
+
+<app-menu-title></app-menu-title>
+<div class="container__articles">
+  <div class="articles__main">
+    <app-big-card id="{{destaque.id}}" photoCover="{{destaque.photoCover}}"
+                  cardTitle="{{destaque.title}}"
+                  cardDescription="{{destaque.description}}"
+    ></app-big-card>
+  </div>
+  <div class="articles__others">
+    <app-small-card *ngFor="let dado of result" id="{{dado.id}}" photoCover="{{dado.photoCover}}" cardTitle="{{dado.title}}"></app-small-card>
+</div>

@@ -1,0 +1,39 @@
+.container__small-card{
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+  height: 160px;
+  margin: 5px;
+}
+
+.photo__small-card{
+  width: 200px;
+  height: 150px;
+}
+
+.photo__small-card > img{
+  margin: 5px;
+  width: 200px;
+  height:150px;
+  padding: 10px;
+}
+
+.title__small-card{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.title__small-card > h1 {
+  margin: 10px;
+  font-size: 25px;
+}
+
+.title__small-card > h1 > a {
+  text-decoration: none;
+}
+
+hr{
+  color: gray;
+  margin: 0px;
+}
