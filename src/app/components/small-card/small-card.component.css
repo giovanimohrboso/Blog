@@ -23,12 +23,18 @@
 
 .title__small-card{
   display: flex;
-  flex-direction: row;
-  align-items: center;
-}
-
-.title__small-card > h1 {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
   margin: 10px;
   font-size: 25px;
+}
+
+.title__small-card > h1{
+  font-size: 25px;
+}
+
+.title__small-card > p{
+  font-size: 15px;
 }
 
