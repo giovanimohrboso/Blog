@@ -3,7 +3,7 @@ export const projetos = [
   "title":"Banco Fácil",
   "description":"Projeto de Empréstimo (Angular e SpringBoot)",
   "photoCover":"https://www.turisdogando.com.br/imagens/money-fundoazul.png",
-  "link":"#",
+  "link":"https://github.com/giovanimohrboso/frontBancoFacil",
   "linguagemProjeto":"Angular e SpringBoot"
 },
 {"id":"2",
