@@ -1,10 +1,12 @@
-.container__small-card{
+.container__small-card > a {
   display: flex;
   flex-direction: row;
   width: 500px;
   height: 160px;
   margin: 5px;
+  text-decoration: none;
 }
+
 
 .photo__small-card{
   width: 200px;
@@ -16,6 +18,7 @@
   width: 200px;
   height:150px;
   padding: 10px;
+  border-radius: 20px;
 }
 
 .title__small-card{
@@ -29,11 +32,3 @@
   font-size: 25px;
 }
 
-.title__small-card > h1 > a {
-  text-decoration: none;
-}
-
-hr{
-  color: gray;
-  margin: 0px;
-}

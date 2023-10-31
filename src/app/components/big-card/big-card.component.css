@@ -7,6 +7,7 @@
   justify-content: flex-start;
   margin-left: 20px;
   margin-right: 20px;
+
 }
 
 .photo__big-card{
@@ -17,7 +18,7 @@
 .photo__big-card > img{
   width:100%;
   min-width: 400px;
-
+  border-radius: 10px;
 
 }
 

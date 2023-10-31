@@ -1,7 +1,8 @@
-@media screen and (max-width: 720px){
+@media screen and (max-width: 900px){
   .container__articles{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
   }
 }
