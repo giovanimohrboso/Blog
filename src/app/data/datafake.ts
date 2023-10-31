@@ -7,7 +7,7 @@ export const datafake = [
 {"id":"2",
   "title":"Blog Pessoal",
   "description":"Blog dos Projetos feito em Angular",
-  "photoCover":"https://github.com/giovanimohrboso/site/blob/main/v3/imagens/TURISDOGANDO.png"
+  "photoCover":"https://github.com/giovanimohrboso/Blog/blob/main/src/assets/martelo.jpg"
 },
 {"id":"3",
   "title":"TURISDOGANDO",
