@@ -2,7 +2,7 @@ export const datafake = [
   {"id":"1",
   "title":"Banco Fácil",
   "description":"Projeto de Empréstimo utilizando Angular e SpringBoot",
-  "photoCover":"https://www.turisdogando.com.br/imagens/money.png"
+  "photoCover":"https://www.turisdogando.com.br/imagens/money-fundoazul.png"
 },
 {"id":"2",
   "title":"Turisdogando",
