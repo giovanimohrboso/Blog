@@ -7,7 +7,7 @@ export const datafake = [
 {"id":"2",
   "title":"Turisdogando",
   "description":"Portal de Viagens com Pet´s HTML5 E CSS3",
-  "photoCover":"https://www.turisdogando.com.br/imagens/TURISDOGANDO.png"
+  "photoCover":"https://www.turisdogando.com.br/imagens/Tusridogando-fundoverde.png"
 },
 
 ]
