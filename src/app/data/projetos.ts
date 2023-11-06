@@ -1,6 +1,6 @@
 export const projetos = [
   {"id":"1",
-  "title":"Banco Fácil",
+  "title":"Banco Fácil(Em desenvolvimento)",
   "description":"Projeto de Empréstimo (Angular e SpringBoot)",
   "photoCover":"https://www.turisdogando.com.br/imagens/money-fundoazul.png",
   "link":"https://github.com/giovanimohrboso/frontBancoFacil",
